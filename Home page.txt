@@ -4,3 +4,12 @@
     Compose +
 
 
+Inbox
+
+Starred
+
+Snoozed 
+
+Sent
+
+
